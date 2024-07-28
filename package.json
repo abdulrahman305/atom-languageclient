@@ -30,7 +30,7 @@
     "rimraf": "^3.0.2",
     "vscode-jsonrpc": "6.0.0",
     "vscode-languageserver-protocol": "3.16.0",
-    "vscode-languageserver-types": "3.16.0",
+    "vscode-languageserver-types": "3.17.5",
     "zadeh": "3.0.0-beta.4"
   },
   "devDependencies": {
